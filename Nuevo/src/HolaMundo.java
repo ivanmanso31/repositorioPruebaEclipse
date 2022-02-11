@@ -19,4 +19,9 @@ public class HolaMundo {
 		saludo="Hola mundo como  estas";
 		System.out.println(saludo);
 	}
+	
+	public void despedida() {
+		saludo="Adios mundo";
+		System.out.println(saludo);
+	}
 }

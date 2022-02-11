@@ -5,7 +5,7 @@ public class PruebaHolaMundo {
 		
 		HolaMundo h1=new HolaMundo();
 		h1.saludo();
-			
+		h1.despedida();
 		}
 
 	}
