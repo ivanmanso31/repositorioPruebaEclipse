@@ -21,7 +21,7 @@ public class HolaMundo {
 	}
 	
 	public void despedida() {
-		saludo="Adios mundo";
+		saludo="Adios mundo cruel";
 		System.out.println(saludo);
 	}
 }
