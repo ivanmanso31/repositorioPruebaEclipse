@@ -9,7 +9,7 @@ public class Multiplicacion {
 		int op1=sc.nextInt();
 		System.out.println("Segundo numero");
 		int op2=sc.nextInt();
-		System.out.println("El resultado es: "+(op1*op2));
+		System.out.println("El resultado es:  "+(op1*op2));
 	}
 
 }

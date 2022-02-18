@@ -16,7 +16,7 @@ public class HolaMundo {
 	}
 
 	public void saludo() {
-		saludo="Hola mudo";
+		saludo="Hola mundos.";
 		System.out.println(saludo);
 	}
 	
